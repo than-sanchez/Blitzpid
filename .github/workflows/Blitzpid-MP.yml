@@ -1,0 +1,22 @@
+#Blitzpid Workflow
+software:
+   connect: bedrock
+   connect-MP: bedrock
+   allow-Dimensions: true
+   allow-Playerconnect: true [onlyWhitelistedplayers]
+properties:
+   max-players: 20
+   motd: Blitzpid 》WHITELIST SERVER
+   view-distance: 4
+   whitelist: true
+   allow-Spigotplugins: true
+   bedrock-Commands: [bedrock](commands add){/help}{/ping}{/home}{/discord}
+dev-Moppher: by FlaredMokoMC
+   recommended-Ping: 151ms {red}
+   location: "los angles"
+github-Workflow:
+   run: true
+   runner: ubuntu-latest
+   
+   
+   
