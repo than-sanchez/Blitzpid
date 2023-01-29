@@ -1,18 +1,10 @@
 # Blitzpid 
-*Features 1.16.210*
+Blitzpid is a Minecraft bedrock server running with mods. We uploaded it here on GitHub to be remembered by a players who already joined.
+ We have an open world which you can download our minecraft world `world.mcworld` it's outdated to prevent leaking coordinates because there's a chance that Blitzpid might be back one day..
 
-• Updated Backups
-
-• Fixed Lag
-
-• Fixed Whitelist Missing
-
-• New Discord Invite Link
-
-# Links
+# Communication
 **Discord Invite Link:** https://discord.gg/jUMfUZwPsd
-
-**Reddit:** comingsoon
+**Facebook Group:** https://www.facebook.com/groups/607601053250915
 # Countries 
 • Republic of Vernia (Available to Join New Players)
 
