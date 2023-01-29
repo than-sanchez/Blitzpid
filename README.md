@@ -5,15 +5,7 @@ Blitzpid is a Minecraft bedrock server running with mods. We uploaded it here on
 # Communication
 **Discord Invite Link:** https://discord.gg/jUMfUZwPsd
 **Facebook Group:** https://www.facebook.com/groups/607601053250915
-# Countries 
-• Republic of Vernia (Available to Join New Players)
-
-• Taned (Not Available to Join New Players)
-
-• Brutetopia (Not Available to Join New Players)
-
-• Westernian State (Available to Join New Players)
-# How i get the IP & Port
-• You can get the IP & Port if you get whitelisted by FlaredMokoMC. If you want to get whitelisted please join our Discord Server.
-# Staff
-• FlaredMokoMC#5534 (Available to DM)
+# Download
+Check out our latest release below this text and you can see the download link
+# About
+Blitzpid was created in September 2020, it was began with Pocketmine software but ended up with dedicated since the server needed to be modded. The server was temporary shutdowned in November 2020 due to server data corruption but it was fixed when it was December 2020 and continues to run until April 2021 the owner decided it to close the server. FlaredMokoMC runned a Minecraft java server with crossplay in July 2021 and ended in Sep 2021. (January 2022) The owner decided to continue the Blitzpid bedrock but it didn't last long due to lack of players playing. 
